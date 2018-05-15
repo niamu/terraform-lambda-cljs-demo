@@ -1,0 +1,8 @@
+.DS_Store
+.cpcache/
+node_modules/
+target/
+package.json
+package-lock.json
+scripts/terraform/.terraform/
+scripts/terraform/terraform.tfstate*
