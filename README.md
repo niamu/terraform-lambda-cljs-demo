@@ -27,7 +27,6 @@ terraform apply
 
 - Possibly use modules to have multiple functions/lambdas per app
 - Resolve append_exports.sh name collision issues
-- Docker image for zero dependency deployment
 
 ## License
 

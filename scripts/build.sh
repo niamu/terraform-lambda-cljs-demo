@@ -1,5 +1,5 @@
 #!/bin/sh
 
-clj scripts/build.clj
+clojure scripts/build.clj
 ./scripts/append_exports.sh
 zip -r target/main.zip target/
